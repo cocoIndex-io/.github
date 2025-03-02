@@ -14,5 +14,8 @@ CocoIndex is the world's first open-source engine that supports both custom tran
 </p>
 With CocoIndex, users declare the transformation, CocoIndex creates & maintains an index, and keeps the derived index up to date based on source update, with minimal computation and changes.
 
+## 🤝 Contributing
+We love contributions from our community ❤️. For details on contributing or running the project for development, check out our [contributing guide](https://cocoindex.io/docs/about/contributing).
+
 
 
