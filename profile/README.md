@@ -8,7 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CocoIndex-5B5BD6?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/cocoindex)
 [![X (Twitter)](https://img.shields.io/twitter/follow/cocoindex_io)](https://twitter.com/intent/follow?screen_name=cocoindex_io)
 
-CocoIndex is the world's first open-source engine that supports both custom transformation logic and incremental updates specialized for data indexing. 
+Data indexing is the process of transforming raw data into a format optimized for retrieval. It’s essential to back RAG and semantic search. CocoIndex is the world's first open-source engine that supports both custom transformation logic and incremental updates specialized for data indexing. 
+
 <p align="center">
     <img src="https://cocoindex.io/images/venn.svg" alt="CocoIndex">
 </p>
